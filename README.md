@@ -13,3 +13,6 @@ frmdata = {"id": "com.supercell.boombeach", "reviewType": '0', "reviewSortOrder"
 url = "https://play.google.com/store/getreviews"
 yield FormRequest(url, callback=self.parse, formdata=frmdata)
 ```
+
+### Crawling with Scrapy – Exporting Json and CSV
+http://scrapingauthority.com/2016/09/19/scrapy-exporting-json-and-csv/
