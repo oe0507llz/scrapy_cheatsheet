@@ -16,3 +16,19 @@ yield FormRequest(url, callback=self.parse, formdata=frmdata)
 
 ### Crawling with Scrapy – Exporting Json and CSV
 http://scrapingauthority.com/2016/09/19/scrapy-exporting-json-and-csv/
+
+### Scraping Web Pages with Scrapy
+https://www.youtube.com/watch?v=1EFnX1UkXVU
+<br>A nice demo how to scrape data from craigslist. 
+
+### Scraping the Web with Scrapy
+https://www.youtube.com/watch?v=eD8XVXLlUTE
+
+### Using Scrapy on reddit.com
+https://www.youtube.com/watch?v=nnnDshuflSI
+<br>One take-away is that we can edit the setting for logging; another take-away is that we can download pdf and spreadsheet. 
+
+### IMDB spider 
+https://github.com/alexwhb/IMDBspider
+
+
