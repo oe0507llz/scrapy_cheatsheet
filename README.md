@@ -31,4 +31,7 @@ https://www.youtube.com/watch?v=nnnDshuflSI
 ### IMDB spider 
 https://github.com/alexwhb/IMDBspider
 
+#### 4 Ways to Debug Scrapy (Including Logging)
+https://www.youtube.com/watch?v=5YmyALotdn0
+
 
